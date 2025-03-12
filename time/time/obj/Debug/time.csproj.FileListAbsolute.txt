@@ -1,0 +1,10 @@
+C:\Users\Silergytest\source\repos\time\time\bin\Debug\time.exe.config
+C:\Users\Silergytest\source\repos\time\time\bin\Debug\time.exe
+C:\Users\Silergytest\source\repos\time\time\bin\Debug\time.pdb
+C:\Users\Silergytest\source\repos\time\time\obj\Debug\time.csproj.AssemblyReference.cache
+C:\Users\Silergytest\source\repos\time\time\obj\Debug\time.Properties.Resources.resources
+C:\Users\Silergytest\source\repos\time\time\obj\Debug\time.csproj.GenerateResource.cache
+C:\Users\Silergytest\source\repos\time\time\obj\Debug\time.csproj.CoreCompileInputs.cache
+C:\Users\Silergytest\source\repos\time\time\obj\Debug\time.exe
+C:\Users\Silergytest\source\repos\time\time\obj\Debug\time.pdb
+C:\Users\Silergytest\source\repos\time\time\obj\Debug\time.program311.resources
